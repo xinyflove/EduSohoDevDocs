@@ -6,6 +6,8 @@ EduSoho开发指南官方网址：​[http://developer.edusoho.com](http://devel
 
 EduSoho开发指南官方网址（旧）：[https://open.edusoho.com/doc/v1/31Development-Guide.html](https://open.edusoho.com/doc/v1/31Development-Guide.html)
 
+EduSoho系统使用引导：[http://www.qiqiuyu.com/faq/search?categoryId=62](http://www.qiqiuyu.com/faq/search?categoryId=62)
+
 作者：Peak Xin
 
 邮箱：xinyflove@sina.com
