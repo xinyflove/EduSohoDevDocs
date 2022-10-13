@@ -1,7 +1,13 @@
-# 开启开发模式
+---
+description: EduSoho开发指南
+---
 
-在`app/data/`目录下创建`dev.lock`文件&#x20;
+# 简介
 
-然后访问`网站域名/app_dev.php`&#x20;
+本文档主要是针对EduSoho系统经验的总结，方便自己开发使用。&#x20;
 
-就可以进入开发模式了，在页面最下方有开发者工具条，可以查看相关信息。
+EduSoho开发指南官方网址：​[http://developer.edusoho.com/](http://developer.edusoho.com/)
+
+作者：Peak Xin
+
+邮箱：xinyflove@sina.com
